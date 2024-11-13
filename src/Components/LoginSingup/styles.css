@@ -8,6 +8,8 @@
   width: 600px;
   box-shadow: 10px 10px 20px black;
   border-radius: 50px;
+  transform: scale(0.8); /* 70% scale */
+  transform-origin: top center;
 }
 .header {
   display: flex;
